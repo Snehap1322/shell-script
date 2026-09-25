@@ -1,10 +1,10 @@
 #!/bin/bash
 #this commented
 
-A=$kanna
-B=$sneha
+A=kanna
+B=sneha
 
 
-echo "hello $A"
+echo "$B:: hello $A"
 echo "$A:: hello $B"
 
