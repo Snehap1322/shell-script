@@ -7,7 +7,7 @@ echo $3
 echo ${10}
 
 echo $#
-echo$*
+echo $*
 echo $@
 
 echo $$
