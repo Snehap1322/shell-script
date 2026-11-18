@@ -1,0 +1,16 @@
+addition.sh*
+bb.sh
+file1.sh*
+flow.sh*
+hello.sh*
+hey.sh*
+ls-file.txt
+movies.sh*
+practice-stiring.sh*
+README.md
+simple.sh*
+strings.sh*
+str-var.sh*
+sysvar.sh*
+var.sh*
+variables.sh*
