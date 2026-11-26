@@ -5,13 +5,13 @@ then
 echo "error:: you must have sudo access to execute this script"
 exit 1 #other than 0
 fi
-dnf install mysql -y
+dnf install nginx -y
 if [ $? -ne 0 ]
 then 
-echo "installing MySqld ... Failure"
+echo "installing nginx ... Failure"
 exit 1
 else 
-echo "installing MySql ... Success"
+echo "installing nginx ... Success"
 fi
 dnf install git -y
 if [ $? -ne 0 ]
